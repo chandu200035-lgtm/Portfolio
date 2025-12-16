@@ -2,7 +2,7 @@ import NavBar from "../components/NavBar";
 import PageShell from "../components/PageShell";
 
 const certs = [
-  { name: "CompTIA Security+", status: "Planned / In Progress" },
+  { name: "CompTIA Security++", status: "Planned / In Progress" },
   { name: "CompTIA CySA+", status: "Planned / In Progress" },
   { name: "CCNA (Networking)", status: "Learning Track" },
   { name: "CISSP (Long-term)", status: "Future Goal" },
